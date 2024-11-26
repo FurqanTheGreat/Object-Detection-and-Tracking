@@ -5,7 +5,7 @@ import cv2
 model = YOLO("yolov8n.pt")
 
 # Input video path
-video_input_path = 0
+video_input_path = "Path-to-video-file.mp4" # Use 0 to open webcam and live tracking
 
 # Opening video file
 cap = cv2.VideoCapture(video_input_path)

@@ -37,7 +37,7 @@ Setup Instructions
 
    ```bash
    git clone https://github.com/FurqanTheGreat/CodeAlpha_Object_Detection.git
-   cd object-detection-tracking
+   cd CodeAlpha_Object_Detection
    ```
 
 3.  Create a virtual environment and activate it:

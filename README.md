@@ -36,7 +36,7 @@ Setup Instructions
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/object-detection-tracking.git
+   git clone https://github.com/FurqanTheGreat/CodeAlpha_Object_Detection.git
    cd object-detection-tracking
    ```
 

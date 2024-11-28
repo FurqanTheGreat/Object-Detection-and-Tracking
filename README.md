@@ -40,22 +40,23 @@ Setup Instructions
    cd CodeAlpha_Object_Detection
    ```
 
-3.  Create a virtual environment and activate it:
+2.  Install dependencies:
+
+    ```bash
+    pip install ultralytics opencv-python
+    ```
+
+3.  Create a virtual environment: (Alternate)
 
     ```bash
     python -m venv venv
     source venv/bin/activate  # For Linux/macOS
     venv\Scripts\activate     # For Windows
     source venv/Scripts/activate # For Bash
-    ```
-    
-4.  Install dependencies:
-
-    ```bash
     pip install ultralytics opencv-python
     ```
 
-5.  Run the system:
+4.  Run the system:
 
     ```bash
     python object_tracker.py

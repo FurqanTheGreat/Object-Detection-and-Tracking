@@ -53,7 +53,7 @@ Setup Instructions
     source venv/bin/activate  # For Linux/macOS
     venv\Scripts\activate     # For Windows
     source venv/Scripts/activate # For Bash
-    pip install ultralytics opencv-python
+    pip install -r requirements.txt
     ```
 
 4.  Run the system:

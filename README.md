@@ -62,6 +62,8 @@ Setup Instructions
     python object_tracker.py
     ```
 
+    Press 'q' to exit.
+
 Output
 ------
 

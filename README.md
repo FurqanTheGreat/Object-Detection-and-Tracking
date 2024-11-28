@@ -36,8 +36,8 @@ Setup Instructions
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/FurqanTheGreat/CodeAlpha_Object_Detection.git
-   cd CodeAlpha_Object_Detection
+   git clone https://github.com/FurqanTheGreat/CodeAlpha_Object_Detection_and_Tracking.git
+   cd CodeAlpha_Object_Detection_and_Tracking
    ```
 
 2.  Install dependencies:
